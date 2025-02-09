@@ -41,23 +41,6 @@ Next Steps
 
 For future implementation of the application we plan on building an API that can process images in large quantities for better scalability. We also want to provide the users with a personalized experience by allowing them to train their own models based on their wardrobe and personal style preferences. We can also enhance the color recommendation algorithm using color theory models which would refine the complementary matching beyond just RGB subtraction. Lastly, we can make the model more robust by incorporating additional features like aesthetics, seasonal adaptations, and occasion-based recommendations. 
 
-Gantt Chart (also on uploaded on the repository):
-
-https://docs.google.com/spreadsheets/d/14Gmxkaln59VNtca28qT3HHAyiilfrBQZosTXbp7RQnU/edit?usp=sharing
-
-
-Contribution Table: 
-
-Ava: Writeup & pca
-
-Priya: Writeup & pca
-
-Devansh: Neural network/Kmeans
-
-Nisarg : Neural network/Kmeans
-
-Tahsin: pca/video
-
 
 Appendix:
 
